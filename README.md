@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Priya 👋</h1>
-<h3 align="center">Data Analyst · SQL · Power BI · Python</h3>
+<h1 align="center">Hi, I'm Priyadarsni JK 👋</h1>
+<h3 align="center"> · Data Scientist · Data Analyst · SQL · Power BI · Python</h3>
 
 <p align="center">
   I turn raw data into dashboards, insights and decisions.
